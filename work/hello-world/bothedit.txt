@@ -1,0 +1,9 @@
+I am editting this file in docker-client.
+
+Can you edit it at docker-host ?
+
+---------------
+
+Can I edit it at docker-host ? 
+
+    -> But chmod is needed!!!!!!!!!!!!!!!
